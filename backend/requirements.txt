@@ -1,0 +1,7 @@
+flask
+flask-cors
+opencv-python
+mediapipe
+yt-dlp
+numpy>=1.26,<2
+python-dotenv
